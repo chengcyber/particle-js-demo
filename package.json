@@ -1,0 +1,16 @@
+{
+  "name": "particle-js-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LIU CHENG <kimochg@outlook.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/kimochg/particle-js-demo",
+  "scripts": {
+    "dev": "live-server",
+    "deploy": "gh-pages"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "live-server": "^1.2.0"
+  }
+}
